@@ -1,0 +1,6 @@
+{
+  "name": "Metro AI",
+  "description": "AI-Driven Train Induction Planning & Scheduling System for Kochi Metro Rail Limited (SIH25081)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
